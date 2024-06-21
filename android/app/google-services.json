@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "208792188550",
+    "firebase_url": "https://uaspemob-1132b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uaspemob-1132b",
+    "storage_bucket": "uaspemob-1132b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208792188550:android:d54b342ee2db3c6fafc307",
+        "android_client_info": {
+          "package_name": "AndroidManifest.xml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ku793yEBtSAr6BmGZQPw7tSVnI5YlBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208792188550:android:320aa72a242a4cdeafc307",
+        "android_client_info": {
+          "package_name": "com.example.projectuas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ku793yEBtSAr6BmGZQPw7tSVnI5YlBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
